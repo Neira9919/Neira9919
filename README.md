@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, scripting, videogames development
 - 🌱 I’m currently learning Laravel, tailwind CSS and alpineJS
 - 💞️ At moment i'm working as a freelancer, looking to improve my skills and gain experience.
-- 📫 Portafolio: [neira9919.github.io](https://neira9919.github.io)neira9919.github.io
+- 📫 Portafolio: [neira9919.github.io](https://neira9919.github.io)
 <!---
 Neira9919/Neira9919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
